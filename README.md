@@ -7,7 +7,7 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 ## My Knowledge
 
 <br>
-<img align="left" width=25% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/rafa.gif">
+<img align="left" width=20% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/rafa.gif">
 
 ⠀⠀⠀⠀⌨️ Programming Languages ⠀⠀⠀⠀⠀⠀⠀⠀⚙️ Libraries ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🔐 Data Bases<br>
 
