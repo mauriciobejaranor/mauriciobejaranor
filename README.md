@@ -8,7 +8,7 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 
 <br>
 
-<img align="left" width=20% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/rafa.gif">
+<img align="left" width=25% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/rafa.gif">
 ⠀⠀⠀⠀⌨️ Programming Languages ⠀⠀⠀⠀⠀⠀⠀⠀⚙️ Libraries ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🔐 Data Bases<br>
 
 ⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>
@@ -21,5 +21,4 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 
 ## Contact Me
 
-LinkedIn: in/mauriciobejaranoreyes
-Mail: mbejarano54@gmail.com
+📧 mbejarano54@gmail.com
