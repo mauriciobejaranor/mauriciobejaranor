@@ -1,4 +1,4 @@
-### Hi, I´m a Junior Developer
+# Hi, I´m a Junior Developer
 
 ## About Me
 
@@ -9,7 +9,6 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 <br>
 
 <img align="left" width=20% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/rafa.gif">
-
 ⠀⠀⠀⠀⌨️ Programming Languages ⠀⠀⠀⠀⠀⠀⠀⠀⚙️ Libraries ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🔐 Data Bases<br>
 
 ⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>
@@ -21,3 +20,6 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 <br>
 
 ## Contact Me
+
+LinkedIn: in/mauriciobejaranoreyes
+Mail: mbejarano54@gmail.com
