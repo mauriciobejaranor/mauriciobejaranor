@@ -8,7 +8,7 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 
 <br>
 
-<img align="left" width=20% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png">
+<img align="left" width=20% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/rafa.gif">
 
 ⠀⠀⠀⠀⌨️ Programming Languages ⠀⠀⠀⠀⠀⠀⠀⠀⚙️ Libraries ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🔐 Data Bases<br>
 
