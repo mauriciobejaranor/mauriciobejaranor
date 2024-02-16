@@ -6,5 +6,18 @@ I'm a Mechatronic Engineer of National University of Trujillo. Who starts buildi
 
 ## My Knowledge
 
+<br>
+
+<img align="left" width=20% src="https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png">
+
+⠀⠀⠀⠀⌨️ Programming Languages ⠀⠀⠀⠀⠀⠀⠀⠀⚙️ Libraries ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🔐 Data Bases<br>
+
+⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>
+
+⠀⠀⠀⠀🎮 Game Engines⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕹️ Frameworks⠀⠀⠀⠀⠀⠀⠀⠀💡 Others<br>
+
+⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'>
+
+<br>
 
 ## Contact Me
