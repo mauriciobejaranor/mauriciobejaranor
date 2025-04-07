@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a Mechatronic Engineer of National University of Trujillo. Who starts building data science projects. Besides, I develop some software for microcontrollers in development and industrial environments.
+I'm a Mechatronic Engineer. Who building custom hardware and software for IoT projects, applying concepts such as cloud/edge computing, deep learning, image processing, and more. I also have experience in industrial automation integration projects and custom software development with SAP ABAP.
 
 ## My Knowledge
 
