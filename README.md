@@ -16,7 +16,3 @@ I'm a Mechatronic Engineer. Who building custom hardware and software for IoT pr
 ⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/aws.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/azure.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/flask.png'><img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/django.jpg'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/Arduino.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/RaspberryPi.png'> <img height="30" src = 'https://github.com/mauriciobejaranor/mauriciobejaranor/blob/main/img/JetsonNano.png'>
 <br>
 <br>
-
-## Contact Me
-
-📧 mbejarano54@gmail.com
